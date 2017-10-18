@@ -5,14 +5,14 @@
         id        = "com.phonegap.helloworld"
         version   = "1.0.0">
 
-    <name>Transmovil</name>
+    <name>OAP</name>
 
     <description>
-        Transmovil.
+        OAP.
     </description>
 
-    <author href="#" email="carold-martinez@hotmail.com">
-        Carolina
+    <author href="#" email="ingeniero.fabio.garcia@gmail.com">
+        OAP
     </author>
 
     <preference name="permissions"                value="none"/>
